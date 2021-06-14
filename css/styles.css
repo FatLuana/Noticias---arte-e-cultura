@@ -3,11 +3,14 @@ body {
     margin-left: 130px;
 }
 
+/* titulo da imagem que está na sessão titulos-pagina */
+
 figcaption {
     font-size: 14px;
     margin-bottom: 50px;
 }
 
+/* Formatação da lista da sessão conteudo */ 
 ul {
     list-style: none;
     padding: 0px;
@@ -21,7 +24,7 @@ a {
     color: #484848;
 }
 
-
+/* Sessão de titulos  */ 
 .titulos-pagina h1 {
     background-color: #ff7212;
     color: white;
@@ -44,6 +47,8 @@ a {
     font-size: 20px;
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
 }
+
+/* Sessão do conteúdo da página principal */
 
 .conteudo {
     margin-left: 30px;
