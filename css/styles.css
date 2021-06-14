@@ -1,0 +1,67 @@
+body {
+    font-family: arial;
+    margin-left: 130px;
+}
+
+figcaption {
+    font-size: 14px;
+    margin-bottom: 50px;
+}
+
+ul {
+    list-style: none;
+    padding: 0px;
+}
+
+li {
+    line-height: 30px;
+}
+
+a {
+    color: #484848;
+}
+
+
+.titulos-pagina h1 {
+    background-color: #ff7212;
+    color: white;
+    padding-left: 20px;
+    font-size: 40px;
+}
+
+.titulos-pagina h2 {
+    margin-left: 30px;
+    margin-top: 30px;
+    font-size: 50px;
+}
+
+.titulos-pagina h6 {
+    color: #484848;
+    margin-left: 30px;
+}
+
+.titulos-pagina {
+    font-size: 20px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.conteudo {
+    margin-left: 30px;
+}
+
+.conteudo p {
+    color: #484848;
+    line-height: 30px;
+    font-size: 18px;
+}
+
+.conteudo img {
+    width: 700px;
+    height: 370px;
+    margin-top: 25px;
+}
+
+.conteudo h3 {
+    margin-top: 70px;
+    font-size: 20px;
+}
